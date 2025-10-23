@@ -19,8 +19,8 @@ Este programa implementa el clásico juego de **tres en raya (tic-tac-toe)** par
 Compila el programa con g++ u otro compilador compatible
 
    ```bash
-   g++ tres_rayas.cpp -o tres_rayas
-   ./tres_rayas
+   g++ tres_raya.cpp -o tres_raya
+   ./tres_raya
    ```
 
 ---
